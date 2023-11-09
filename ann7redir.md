@@ -1,5 +1,5 @@
 ---
 layout: forward
-target: https://example.com
+target: https://www.matsq4group.com
 permalink: /recipes/ann7
 ---
