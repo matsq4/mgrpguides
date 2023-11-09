@@ -2,7 +2,8 @@ remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
 
-site_favicon: favicon.ico
+header_pages:
+  - about.md
 
 minima:
   skin: auto
