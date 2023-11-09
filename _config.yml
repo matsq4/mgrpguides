@@ -1,6 +1,17 @@
+title: matt_wyz
+author:
+  name: Matthew W.
+  email: matt@matsq4group.com
+  
+description: >
+  Developing and creating for life
+  (c) matthew w. 2023
+  
 remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
+  
+logo: /favicon.png
 
 header_pages:
   - index.md
