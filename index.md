@@ -1,5 +1,3 @@
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-
 ## Welcome!
 
 I'm Matthew, this site hosts my personal projects amongst other things.
