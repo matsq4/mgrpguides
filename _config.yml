@@ -9,3 +9,9 @@ header_pages:
 
 minima:
   skin: auto
+
+  minima:
+  social_links:
+    - { platform: instagram, user_url: "https://instagram.com/matt_wyz" }
+    - { platform: twitter, user_url: "https://twitter.com/matt_wyz" }
+    - { platform: youtube, user_url: "https://youtube.com/@matt_wyz" }
