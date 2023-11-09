@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Inter-Patrol Shield Results"
+title: "Inter-Patrol Shield Score System ⚜️"
 permalink: /docs/IPSSys
 ---
 
-## Inter-Patrol Shield Score System ⚜️
+
 > A simple, user-intuitive system for quick score summing.
 
 ### Description
