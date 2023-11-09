@@ -1,6 +1,6 @@
 ### Hello!
 
-#### I'm Matthew Wang, currently working on learning coding.
+#### I'm Matthew, currently working on learning coding.
 
 Experience:
   - Graphics Design
