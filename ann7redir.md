@@ -1,5 +1,4 @@
 ---
----
 layout: page
 title: "Recipes Annex 7"
 permalink: /recipes/ann7
