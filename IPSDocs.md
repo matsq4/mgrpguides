@@ -5,7 +5,7 @@ permalink: /docs/IPSSys
 ---
 
 
-> A simple, user-intuitive system for quick score summing.
+> A simple, user-intuitive system for quick score summing. 
 
 ### Description
 This system was created for logging of IPS scores. Simply submit a new entry to the form every time an activity is completed, with the scores of each patrol. Simple, easy and portable.
@@ -34,3 +34,5 @@ consenting to our collection and/or use of your personal data **only** to the ex
 process your requests. 
 
 Data is not held on to for any period of time longer than needed.
+
+> ©️ matt_wyz/matthew w. 2023
