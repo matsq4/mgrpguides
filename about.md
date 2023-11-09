@@ -1,4 +1,6 @@
-# About Me
+layout: page
+title: "About Me"
+permalink: /aboutme
 
 ### Hello!
 
