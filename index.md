@@ -1,3 +1,6 @@
+layout: page
+title: "Home"
+
 ## Welcome!
 
 I'm Matthew, this site hosts my personal projects amongst other things.
