@@ -12,11 +12,11 @@ This system was created for logging of IPS scores. Simply submit a new entry to 
 Scores can be reviewed at www.mattwyz.xyz/02/IPS
 
 #### Quick Links
-**Form:** www.mattwyz.xyz/IPSform
+**[Form](https://www.mattwyz.xyz/IPSform)**
 
-**Score Page:** www.mattwyz.xyz/02/IPS
+**[Score Page](https://www.mattwyz.xyz/02/IPS)**
 
-**Support:** Matthew W. (matt@matsq4group.com)
+**Support:** Matthew W. ([matt@matsq4group.com](mailto:matt@matsq4group.com))
 
 
 ### Usage Guide
