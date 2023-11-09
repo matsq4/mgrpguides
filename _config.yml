@@ -2,5 +2,7 @@ remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
 
+site_favicon: favicon.ico
+
 minima:
   skin: auto
