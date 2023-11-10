@@ -18,8 +18,8 @@ whilst others are completely original.
 
 _Listed below are sections pertaining to different kinds of dishes, clicking should automatically send you to the correct section_
 
-### Appetisers/Entreés
-[Entreés](#entrées)
+### Appetisers/Entrées
+[Entrées](#entrées)
 
 ### Mains
 #### Meat-Based
@@ -35,7 +35,7 @@ _Listed below are sections pertaining to different kinds of dishes, clicking sho
 [Vegetarian](#mains-vegetarian)
 
 
-## Entreés
+## Entrées
 
 ### _**Egg Scallion Pancakes**_
 > A simple savoury pancake, great for a lead up to a meal, let your creativity run wild since you can put
