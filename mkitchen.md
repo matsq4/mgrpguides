@@ -41,23 +41,23 @@ _Listed below are sections pertaining to different kinds of dishes, clicking sho
 > A simple savoury pancake, great for a lead up to a meal, let your creativity run wild since you can put
 > almost anything in the batter.
 
-| Ingredient       	| Quantity     	| Remarks                                                         	|
-|------------------	|--------------	|-----------------------------------------------------------------	|
-| Eggs             	| 3-4          	|                                                                 	|
-| Flour            	| Varies       	| Depends on amount of egg, since it's ratio-based.               	|
-| Chives/Scallions 	| 1-2 handfuls 	|                                                                 	|
-| Oil              	| -            	|                                                                 	|
-| Seasoning        	| 适量         	| This is up to you, salt, pepper or chili, completely up to you. 	|
+| Ingredients       | Quantity     	| Remarks                                                         	 |
+|------------------	|--------------	|------------------------------------------------------------------	 |
+| Eggs             	| 3-4          	|                                                                 	 |
+| Flour            	| Varies       	| Depends on amount of egg, since it's ratio-based.               	 |
+| Chives/Scallions 	| 1-2 handfuls 	|                                                                 	 |
+| Oil              	| -            	|                                                                 	 |
+| Seasoning        	| 适量         	| This is up to you, salt, pepper or chili, lots of space to explore.|
 
 #### **Method and Instruction**
 
-a. _Preparation_
+a. **Preparation**
 1. Chop up chives and scallions into small pieces.
 2. Prepare your pancake mixture by mixing flour and eggs in a 2:1 ratio. Mix and whip until smooth consistency with no flour clumps.
 3. Add seasonings of choice into mixture and combine well.
 4. Mix your chives and scallions into mixture. Mix and combine well.
 
-b. _Cooking_
+b. **Cooking**
    
 5. Heat pan and add a thin layer of oil.
 6. Once hot, pour a thin layer of your mixture into the pan, make sure it’s not too thick or it won’t cook thoroughly.
@@ -76,6 +76,30 @@ b. _Cooking_
 ### Mains (Soups/Stews)
 
 #### _**Chunky Ajillo in Pot**_
+> A hearty, garlicky dish that ought to warm you up on a cold night. A
+>  simple base consisting of olive oil, lots of fresh garlic, salt and pepper, and chopped fresh parsley.
+
+| Ingredients                                        	| Quantity     	| Remarks                                                         	|
+|---------------------------------------------------	|--------------	|-----------------------------------------------------------------	|
+| Chinese Yam (山药)                                	| ⅓ stick      	|                                                                 	|
+| Potato                                            	| 3-4          	| Depends on size of potato                                       	|
+| Shrimp                                            	| 200-300g     	| Fresh or Frozen                                                 	|
+| Wieners                                           	| ½ pack       	|                                                                 	|
+| Octopus Legs                                      	| TBC          	| This is up to you, salt, pepper or chili, completely up to you. 	|
+| Baby Corn                                         	| ⅓ pack       	|                                                                 	|
+| Broccoli                                          	| ⅓            	|                                                                 	|
+| Champignon Mushrooms/ <br> White Button Mushrooms 	| ½ pack       	|                                                                 	|
+| Shimeji Mushrooms                                 	| 1 pack       	|                                                                 	|
+| **SEASONINGS**                           	          |              	|                                                                 	|
+| Olive Oil                                         	| 1 cup        	|                                                                 	|
+| Minced Garlic                                     	| 1-2 tbsp     	|                                                                 	|
+| Garlic Cloves                                     	| 7-9          	|                                                                 	|
+| Herb Mix                                          	| 适量         	|                                                                 	|
+| Paprika                                           	| 适量         	|                                                                 	|
+| Salt/Pepper                                       	| 适量         	|                                                                 	|
+| Red Chilies                                       	| 1-3          	| Add more (or less) depending on patrol spice tolerance.         	|
+| **GARNISHING**                                    	|              	|                                                                 	|
+| Parsley                                           	| 2-3 handfuls 	|                                                                 	|
 
 ### Mains (Others)
 
