@@ -19,10 +19,11 @@ I am involved in. I enjoy taking intiative and helping others when within my abi
 #### Education:
   - 4 years of Secondary Education at Raffles Institution (Integrated Programme)
 
-#### Leadership:
+#### Leadership and Roles:
   - Values-in-Action Coordinator:
     - 2022 Tree Planting @ Thomson Nature Park
   - Class Executive Committee (2023)
-
+  - RI Dramafeste 2023
+    - Multimedia Production, Operation and Coordination for Buckley House
 
 Feel free to contact me at matt@matsq4group.com
