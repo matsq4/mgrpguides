@@ -52,6 +52,7 @@ _Listed below are sections pertaining to different kinds of dishes, clicking sho
 > almost anything in the batter.
 
 ##### _Serves 2_
+
 | Ingredient        | Quantity     	| Remarks                                                         	 |
 |------------------	|--------------	|------------------------------------------------------------------	 |
 | Eggs             	| 3-4          	|                                                                 	 |
@@ -83,6 +84,7 @@ b. **Cooking**
 > A simple fried rice with eggs, pair with some protein and you have a balanced meal.
 
 ##### _Serves 2-3_
+
 | Ingredient          	| Quantity   	| Remarks                               	|
 |---------------------	|------------	|---------------------------------------	|
 | Rice (Cold, Cooked) 	| 5 cups     	| 5 CUPS WHEN COOKED, NOT WHEN UNCOOKED 	|
@@ -113,6 +115,7 @@ b. **Cooking**
 > Simple, quick, flavourful chicken. Savoury with slight sweetness.
 
 ##### _Serves 2_
+
 | Ingredient        	| Quantity 	| Remarks 	|
 |-------------------	|----------	|---------	|
 | Chicken Thigh     	| 5 cups   	| Skin-on 	|
@@ -145,6 +148,7 @@ b. **Cooking**
 >  simple base consisting of olive oil, lots of fresh garlic, salt and pepper, and chopped fresh parsley.
 
 ##### _Serves 5-8_
+
 | Ingredient                                        	| Quantity     	| Remarks                                                         	|
 |---------------------------------------------------	|--------------	|-----------------------------------------------------------------	|
 | Chinese Yam (山药)                                	| ⅓ stick      	|                                                                 	|
@@ -207,6 +211,7 @@ b. **Cooking**
 > Start the morning with a hot, warm, fluffy and eggy slice of toast. Perfect when paired with other sweet things 🍓
 
 ##### _Serves 2-3_
+
 | Ingredient                   	| Quantity     	| Remarks  	|
 |------------------------------	|--------------	|----------	|
 | Bread                       	| 5-6 slices   	|          	|
@@ -235,6 +240,7 @@ b. **Cooking**
 > Want something more savoury? Start the morning with an omlette. Pair (or sandwich) between some bread and you have a filling meal.
 
 ##### _Serves 1-2_
+
 | Ingredient      	| Quantity   	| Remarks  	|
 |-----------------	|------------	|----------	|
 | Eggs            	| 5-6 slices 	|          	|
