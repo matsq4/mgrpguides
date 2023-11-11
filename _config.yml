@@ -4,8 +4,9 @@ author:
   email: matt@matsq4group.com
   
 description:
-  Developing and creating for life
+  Developing and creating for life <br>
   (c) matthew w. 2023
+  No part of this site shall be reproduced in any way, shape or form.
   
 remote_theme: jekyll/minima
 plugins:
