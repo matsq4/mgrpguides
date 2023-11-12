@@ -38,6 +38,7 @@ _Listed below are sections pertaining to different kinds of dishes, clicking sho
 
 #### Vegetarian
 **[All Vegetarian](#mains-vegetarian)**
+  - [Tofu Steak](#tofu-steak) <sub>[VEGETARIAN + VEGAN]</sub>
 
 ### _**Desserts**_
 **[All Desserts](#desserts)**
@@ -202,7 +203,6 @@ b. **Cooking**
 -nothing here at the moment-
 
 ## Mains (Vegetarian)
-
 ### **_Tofu Steak_**
 > A reasonable vegetarian/vegan alternative, wonderfully fresh and fragrant,
 > with the raw daikon tempered by the slightly sour ponzu sauce and brought together with the earthy shiso.
