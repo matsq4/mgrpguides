@@ -41,7 +41,7 @@ _Listed below are sections pertaining to different kinds of dishes, clicking sho
 
 ### _**Desserts**_
 **[All Desserts](#desserts)**
-  - [Crêpes](#crêpes)
+  - [Crêpes](#crêpes) <sub>[VEGETARIAN]</sub>
 
 ### [**_Breakfast_**](#breakfast)
 #### [Sweet](#breakfast-sweet)
@@ -202,7 +202,42 @@ b. **Cooking**
 -nothing here at the moment-
 
 ## Mains (Vegetarian)
--nothing here at the moment-
+
+### **_Tofu Steak_**
+> A reasonable vegetarian/vegan alternative, wonderfully fresh and fragrant,
+> with the raw daikon tempered by the slightly sour ponzu sauce and brought together with the earthy shiso.
+
+#### _Serves 1-2_
+
+| Ingredient                                        	| Quantity   	| Remarks                         	|
+|---------------------------------------------------	|------------	|---------------------------------	|
+| Medium/Firm Tofu                                  	| 5-6 slices 	|                                 	|
+| Olive Oil                                         	| 2 cups     	|                                 	|
+| **SAUCE** <br> (makes ¼ cup, scale to preference) 	| **酱料**   	| you can also use bottled ponzu  	|
+| Japanese Soy Sauce                                	| 2 tbsp     	|                                 	|
+| Water                                             	| ½ tsp      	|                                 	|
+| Dashi Granules                                    	| 1 pinch    	|                                 	|
+| Fresh-squeezed Yuzu Juice                         	| 1 tbsp     	| lemon/lime works as substitutes 	|
+| Rice Vinegar                                      	| ½ tbsp     	|                                 	|
+| Mirin                                             	| 1 tsp      	|                                 	|
+| **GARNISHING**                                    	| **摆盘**   	| optional                        	|
+| Daikon, finely grated                             	| to taste   	|                                 	|
+| Shiso Leaves                                      	| 5-10       	|                                 	|
+
+#### **Method and Instruction**
+a. **Preparation**
+1.	Remove tofu from its package and drain the excess water. 
+2.	Place on a plate and weigh the tofu down using a dinner plate or something similar. 
+3.	Let the water drain from the tofu for 30 – 45 minutes. Drain any water that has gathered on the plate as needed throughout this process.
+4.	Chiffonade the shiso leaves (very thin ribbons).
+
+b. **Cooking**
+
+5.	Preheat olive oil in a frying pan set over medium heat.
+6.	When the oil is shimmering, gently add the tofu.
+7.	Cook until browned, ~4-5 minutes, then turn the tofu over, and brown the second side for an additional 4-5 minutes.
+8.	Remove from pan and place on serving plate.
+9.	Top with grated daikon and the shiso leaves, then drizzle with sauce. Pair with a bowl of rice.
 
 ## Desserts
 ### **_Crêpes_**
