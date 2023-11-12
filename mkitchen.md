@@ -199,6 +199,9 @@ b. **Cooking**
 
 **Please don’t drink the soup it's literally olive oil.**
 
+### **_坦々餃子鍋_**
+> 【ゆるキャン△レシピ再現！】 キャンプでも作り易い様に工夫した坦々餃子鍋です。
+
 ## Mains (Others)
 -nothing here at the moment-
 
