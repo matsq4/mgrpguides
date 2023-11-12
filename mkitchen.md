@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Matt's Kitchen"
-permalink: /mkitchen
+permalink: /mattskitchen
 ---
 
 ### Hello!
@@ -21,7 +21,7 @@ _Listed below are sections pertaining to different kinds of dishes, clicking sho
 ### **_Lunch/Dinner_**
 
 ### [Appetisers/Entrées](#entrées)
-  - [Egg Scallion Pancake](#egg-scallion-pancakes)
+  - [Egg Scallion Pancake](#egg-scallion-pancakes) <sub>[VEGETARIAN]</sub>
 
 
 ### Mains
@@ -39,11 +39,15 @@ _Listed below are sections pertaining to different kinds of dishes, clicking sho
 #### Vegetarian
 **[All Vegetarian](#mains-vegetarian)**
 
-### [Desserts](#desserts)
+### _**Desserts**_
+**[All Desserts](#desserts)**
+  - [Crêpes](#crêpes)
 
 ### [**_Breakfast_**](#breakfast)
-  - [French Toast](#french-toast)
-  - [Country-Style Omlette](#country-style-omlette)
+#### [Sweet](#breakfast-sweet)
+  - [French Toast](#french-toast) <sub>[VEGETARIAN]</sub>
+#### [Savoury](#breakfast-savoury)
+  - [Country-Style Omlette](#country-style-omlette) <sub>[VEGETARIAN (w/o ham)]</sub>
 
 ## Entrées
 
@@ -155,7 +159,7 @@ b. **Cooking**
 | Potato                                            	| 3-4          	| Depends on size of potato                                       	|
 | Shrimp                                            	| 200-300g     	| Fresh or Frozen                                                 	|
 | Wieners                                           	| ½ pack       	|                                                                 	|
-| Octopus Legs                                      	| TBC          	| This is up to you, salt, pepper or chili, completely up to you. 	|
+| Octopus Legs                                      	| TBC          	|                                                                  	|
 | Baby Corn                                         	| ⅓ pack       	|                                                                 	|
 | Broccoli                                          	| ⅓            	|                                                                 	|
 | Champignon Mushrooms/ <br> White Button Mushrooms 	| ½ pack       	|                                                                 	|
@@ -164,9 +168,9 @@ b. **Cooking**
 | Olive Oil                                         	| 1 cup        	|                                                                 	|
 | Minced Garlic                                     	| 1-2 tbsp     	|                                                                 	|
 | Garlic Cloves                                     	| 7-9          	|                                                                 	|
-| Herb Mix                                          	| 适量         	|                                                                 	|
-| Paprika                                           	| 适量         	|                                                                 	|
-| Salt/Pepper                                       	| 适量         	|                                                                 	|
+| Herb Mix                                          	| To taste     	|                                                                 	|
+| Paprika                                           	| To taste     	|                                                                 	|
+| Salt/Pepper                                       	| To taste     	|                                                                 	|
 | Red Chilies                                       	| 1-3          	| Add more (or less) depending on patrol spice tolerance.         	|
 | **GARNISHING**                                    	| **装饰**      |                                                                 	|
 | Parsley                                           	| 2-3 handfuls 	|                                                                 	|
@@ -201,12 +205,35 @@ b. **Cooking**
 -nothing here at the moment-
 
 ## Desserts
-###**_Crêpes_**
+### **_Crêpes_**
 > A sweet/neutral base, pair with jams, spreads and other things to make a nice dessert.
 
+##### _Serves 5-8_
 
+| Ingredient    	| Quantity   	| Remarks 	|
+|---------------	|------------	|---------	|
+| Flour         	| 1⅓ cups   	|         	|
+| Milk          	| 2 cups     	|         	|
+| Eggs          	| 1          	|         	|
+| Sugar         	| 2 tbsp     	|         	|
+| Baking Powder 	| ½ tsp      	|         	|
+| Oil           	| 1 tbsp     	|         	|
 
-## Breakfast
+#### **Method and Instruction**
+a. **Preparation**
+1.	Mix all the ingredients for crepe batter in a large bowl and whisk the mixture until lumps dissolve.
+
+b. **Cooking**
+
+1.	Heat and grease your pan.
+2.	Once hot, pour a thin layer of the crêpe batter into the pan.
+3.	Allow the crêpe to set and get more solid, you can tell when this happens by when there is no more liquid batter and there is nice bubbling.
+4.	Once solid, flip the crêpe, by gently picking it up by going around the circumference.
+5.	Let crêpe continue cooking.
+6.	Once done, pick up the crêpe and transfer onto a plate.
+7.	Plate the crêpes and fill/top with toppings of your choice.
+
+## Breakfast (Sweet)
 ### _**French Toast**_
 > Start the morning with a hot, warm, fluffy and eggy slice of toast. Perfect when paired with other sweet things 🍓
 
@@ -236,6 +263,7 @@ b. **Cooking**
 6.	Repeat steps 3-5 with rest of bread.
 7.	Plate and serve with maple syrup and your fruit.
 
+## Breakfast (Savoury)
 ### _**Country-Style Omlette**_
 > Want something more savoury? Start the morning with an omlette. Pair (or sandwich) between some bread and you have a filling meal.
 
