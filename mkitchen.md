@@ -15,6 +15,8 @@ Campfire recipes are in a different section.
 
 > **NOV CAMP NOTICE:** Dishes for November Camp are listed within Annex 7, you should have been redirected here.
 
+![copyright](https://github.com/matsq4/matt_wyz/assets/139704779/60446aba-e879-4a29-92cd-bf4f5fe6dc9b)
+
 ## SECTIONS
 
 _Listed below are sections pertaining to different kinds of dishes, clicking should automatically send you to the correct section_
