@@ -9,6 +9,7 @@ permalink: /mattskitchen
 **This is a selection of recipes curated by me, these have been tested to make sure they are camp-compatible, easy to cook, and easy to clean!**
 This was mainly created since I do a lot of stove-cooking when scouting, and some of the stuff I've made have been decent. Some of these recipes are adapted
 whilst others are completely original.
+Campfire recipes are in a different section.
 
 **All recipes include name of dish, a short description of the dish, ingredients and instructions to prepare.**
 
@@ -32,7 +33,7 @@ _Listed below are sections pertaining to different kinds of dishes, clicking sho
 
 **[Soups/Stews](#mains-soupsstews)**
   - [Chunky Ajillo in Pot](#chunky-ajillo-in-pot)
-
+  - [Tantan Gyoza Hotpot](#坦々餃子鍋)
 
 **[Others/Uncategorised](#mains-others)**
 
@@ -49,6 +50,11 @@ _Listed below are sections pertaining to different kinds of dishes, clicking sho
   - [French Toast](#french-toast) <sub>[VEGETARIAN]</sub>
 #### [Savoury](#breakfast-savoury)
   - [Country-Style Omlette](#country-style-omlette) <sub>[VEGETARIAN (w/o ham)]</sub>
+
+### **_Backwoodsman_**
+**[All Backwoodsman](#backwoodsmanfire-top)
+  - [Foil Packet – Sausage & Potatoes](#potatoes-and-sausages-in-foil)
+
 
 ## Entrées
 
@@ -328,3 +334,37 @@ b. **Cooking**
 5.	Once the egg is mostly cooked and the egg doesn’t pull anymore, add in the ham and cheese on half of the omelette. 
 6.	Fold the other half over the cheese. Optionally add in more butter, tilt pan and let butter melt under the omelette for 20-30 seconds.
 7.	Plate and enjoy. 
+
+
+## Backwoodsman/Fire-top
+
+### **_Potatoes and Sausages in Foil_**
+> simple and decent
+
+##### _Serves 4_
+
+| Ingredient    	| Quantity 	| Remarks                  	|
+|---------------	|----------	|--------------------------	|
+| Sausage       	| 400g     	| kielbasa, bratwurst etc. 	|
+| Potatoes      	| 700g     	|                          	|
+| Onion         	| 1        	|                          	|
+| Salt          	| 2 tsp    	|                          	|
+| Garlic Powder 	| 1 tsp    	|                          	|
+| Paprika       	| ½ tsp    	|                          	|
+| Spicy Mustard 	| 4 tbsp   	|                          	|
+| Honey         	| 2 tbsp   	|                          	|
+| Butter        	| 4 tbsp   	|                          	|
+| Parsley       	| to taste 	| for garnish              	|
+
+#### **Method and Instruction**
+a. **Preparation**
+1.	Slice the sausage into 1¼ cm rounds, cut potatoes into 2.5cm pieces and roughly chop the onion.
+2.	Tear 4*45cm pieces of heavy-duty foil for each packet, along with 4*40cm sheets of parchment paper. Layer parchment on top of foil.
+3.	Divide the sausage, potatoes, onions, salt and spices, sauces, and butter between the 4 sheets of foil.
+4.	To form the packets, bring one of the short edges of the foil to meet the other, then crimp around all edges to seal.   
+
+b. **Cooking**
+
+5.	Cook the packets over the fire for ~18-22 minutes, flipping after 10 minutes, till potatoes are tender.
+6.	Remove from fire and let cool slightly. BE CAREFUL WHEN OPENING they will be full of steam.
+7.	Top with fresh parsley and enjoy.
