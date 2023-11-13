@@ -52,7 +52,7 @@ _Listed below are sections pertaining to different kinds of dishes, clicking sho
   - [Country-Style Omlette](#country-style-omlette) <sub>[VEGETARIAN (w/o ham)]</sub>
 
 ### **_Backwoodsman_**
-**[All Backwoodsman](#backwoodsmanfire-top)
+**[All Backwoodsman](#backwoodsmanfire-top)**
   - [Foil Packet – Sausage & Potatoes](#potatoes-and-sausages-in-foil)
 
 
