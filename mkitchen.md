@@ -26,7 +26,6 @@ _Listed below are sections pertaining to different kinds of dishes, clicking sho
 ### [Appetisers/Entrées](#entrées)
   - [Egg Scallion Pancake](#egg-scallion-pancakes) <sub>[VEGETARIAN]</sub>
 
-
 ### Mains
 #### Meat-Based
 **[Stir-Fry/Fried](#mains-stir-friedfried)**
@@ -131,7 +130,7 @@ b. **Cooking**
 
 | Ingredient        	| Quantity 	| Remarks 	|
 |-------------------	|----------	|---------	|
-| Chicken Thigh     	| 5 cups   	| Skin-on 	|
+| Chicken Thigh     	| 2   	    | Skin-on 	|
 | Corn Starch       	| 3 tbsp   	|         	|
 | **SAUCE**         	| **酱料** 	|         	|
 | Soy Sauce         	| 3.5 tbsp 	|         	|
@@ -222,7 +221,7 @@ b. **Cooking**
 
 | Ingredient                                        	| Quantity   	| Remarks                         	|
 |---------------------------------------------------	|------------	|---------------------------------	|
-| Medium/Firm Tofu                                  	| 5-6 slices 	|                                 	|
+| Medium/Firm Tofu                                  	| 1 block   	|                                 	|
 | Olive Oil                                         	| 2 cups     	|                                 	|
 | **SAUCE** <br> (makes ¼ cup, scale to preference) 	| **酱料**   	| you can also use bottled ponzu  	|
 | Japanese Soy Sauce                                	| 2 tbsp     	|                                 	|
@@ -256,14 +255,14 @@ b. **Cooking**
 
 ##### _Serves 5-8_
 
-| Ingredient    	| Quantity   	| Remarks 	|
-|---------------	|------------	|---------	|
-| Flour         	| 1⅓ cups   	|         	|
-| Milk          	| 2 cups     	|         	|
-| Eggs          	| 1          	|         	|
-| Sugar         	| 2 tbsp     	|         	|
-| Baking Powder 	| ½ tsp      	|         	|
-| Oil           	| 1 tbsp     	|         	|
+| Ingredient    	| Quantity      	| Remarks 	|
+|---------------	|---------------	|---------	|
+| Flour         	| 1⅓ cups/167g   	|         	|
+| Milk          	| 2 cups/470ml    |         	|
+| Eggs          	| 1             	|         	|
+| Sugar         	| 2 tbsp        	|         	|
+| Baking Powder 	| ½ tsp         	|         	|
+| Oil           	| 1 tbsp        	|         	|
 
 #### **Method and Instruction**
 a. **Preparation**
