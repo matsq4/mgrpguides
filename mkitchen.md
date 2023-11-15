@@ -253,7 +253,7 @@ b. **Cooking**
 ### **_Crêpes_**
 > A sweet/neutral base, pair with jams, spreads and other things to make a nice dessert.
 
-##### _Serves 5-8_
+##### _Serves 8-10_
 
 | Ingredient    	| Quantity      	| Remarks 	|
 |---------------	|---------------	|---------	|
@@ -271,12 +271,14 @@ a. **Preparation**
 b. **Cooking**
 
 1.	Heat and grease your pan.
-2.	Once hot, pour a thin layer of the crêpe batter into the pan.
+2.	Once hot, pour a thin layer of the crêpe batter into the pan. The key is to cover the bottom of the pan with just a slightly thick layer of batter, don’t coat it too thickly, do it slowly.
 3.	Allow the crêpe to set and get more solid, you can tell when this happens by when there is no more liquid batter and there is nice bubbling.
 4.	Once solid, flip the crêpe, by gently picking it up by going around the circumference.
 5.	Let crêpe continue cooking.
 6.	Once done, pick up the crêpe and transfer onto a plate.
 7.	Plate the crêpes and fill/top with toppings of your choice.
+
+**NOTE: Subsequent crepes will require much less time to cook than the first crepe, as the pan heats up even more with each crepe.**
 
 ## Breakfast (Sweet)
 ### _**French Toast**_
