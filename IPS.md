@@ -7,4 +7,4 @@ permalink: /02/IPS
 
 ## Page Not in Service.
 
-Looking for 2023 IPS Results? They're still available [here](https://mattwyz.xyz/02/IPS23)
+Looking for 2023 IPS Results? They're still available [here](https://www.mattwyz.xyz/02/IPS23)
