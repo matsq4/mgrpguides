@@ -209,6 +209,48 @@ b. **Cooking**
 ### **_坦々餃子鍋_**
 > 【ゆるキャン△レシピ再現！】 キャンプでも作り易い様に工夫した坦々餃子鍋です。
 
+#### _Serves 1_
+
+| Ingredient                 | Quantity   | Remarks                                         |
+|----------------------------|------------|-------------------------------------------------|
+| Gyoza                      | 4          |                                                 |
+| Tofu                       | ¼ block    |                                                 |
+| Chinese Cabbage            | 1-2 pieces |                                                 |
+| Japanese Leeks             | ½ stalk    |                                                 |
+| Beansprouts                | ⅓ pack     |                                                 |
+| Chives                     | ⅓ pack     |                                                 |
+| Shimeji Mushroom           | ¼ pack     | or similar                                      |
+| **FOR MINCED MEAT**        |            |                                                 |
+| Minced Pork/Chicken        | 50g        |                                                 |
+| Garlic Cloves              | 1-2        | or minced garlic                                |
+| Ginger                     | 1 piece    | about thumb-size                                |
+| Bean Sauce (douban)        | 1-2 tsp    |                                                 |
+| Sesame Oil                 | 1 tsp      |                                                 |
+| **FOR SOUP**               |            | _pls don't scale this up as much_               |
+| Miso Soup Base (prepacked) | 2 bags     | or just regular miso <br> in reasonable amounts |
+| Sesame Sauce               | 4-6 tbsp   |                                                 |
+| Chicken Stock              | 1 tsp      |                                                 |
+| Chili Oil                  | to taste   | add to liking                                   |
+| Water                      | 300cc      |                                                 |
+
+#### **Method and Instruction**
+a. **Preparation**
+1.	Cut tofu into smaller cubes and Chinese cabbage into bite-sized pieces. 
+2.	Slice green onions/leeks diagonally into 1cm wide pieces. Cut chives into ~5cm length.
+3.	Remove the base/core of the shimeji mushrooms.
+4.	Finely chop garlic and ginger.
+
+b. **Cooking**
+
+5.	Heat sesame oil in a claypot, then stir-fry the garlic and ginger.
+6.	When fragrant, add minced meat and continue to stir-fry.
+7.	Once minced meat is cooked, add the bean sauce and stir-fry.
+8.	Once everything is mixed, add 300ml of water and bring to a boil.
+9.	Once boiling, add miso soup base, sesame sauce, chicken stock and chili oil, then bring to a boil.
+10.	Once soup is boiling again, spread the Chinese cabbage at the bottom, then add the gyoza, tofu, leeks, bean sprouts and shimeji mushrooms on top.
+11.	Add chives on top, cover with a lid and let simmer till dumplings are fully cooked.
+12.	Serve in pot, hot with rice.
+
 ## Mains (Others)
 -nothing here at the moment-
 
