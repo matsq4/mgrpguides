@@ -18,7 +18,6 @@ logo: /favicon.png
 header_pages:
   - index.md
   - about.md
-  - PSC.html
 
 minima:
   skin: auto
