@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Matt's Kitchen"
-permalink: /mattskitchen
+title: "Matt's Recipes"
+permalink: /mkitchen
 ---
 
 ### Hello!
