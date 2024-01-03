@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "2024 02 Scouts BM Schedule"
-permalink: /02/Schedule
+permalink: /02/schedule
 ---
 ![IPSBanner](https://github.com/matsq4/matt_wyz/assets/139704779/1b45f3b0-6ca6-4d14-be30-4dd4448ba6c5)
 
