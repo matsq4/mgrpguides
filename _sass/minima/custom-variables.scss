@@ -2,4 +2,13 @@
 
 /** minima/initialize.scss */
 
+$base-font-family: 'M PLUS Rounded 1c', sans-serif;
+
+// Width of the content area
 $content-width:    1000px !default;
+
+$on-palm:          600px !default;
+$on-laptop:        1000px !default;
+
+$on-medium:        $on-palm !default;
+$on-large:         1500px !default;
