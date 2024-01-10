@@ -22,9 +22,6 @@ https://www.mattwyz.xyz/02/schedule
 https://www.mattwyz.xyz/mkitchen
 
 ## Inter-Patrol Shield
-
-![IPSBanner](https://github.com/matsq4/matt_wyz/assets/139704779/1b45f3b0-6ca6-4d14-be30-4dd4448ba6c5)
-
 > Results
 
 https://www.mattwyz.xyz/02/IPS
