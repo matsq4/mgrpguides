@@ -1,9 +1,8 @@
 ---
 layout: page
-title: "02 Scouts"
+title: "02 Scouts Main Directory"
 permalink: /02
 ---
-# 02 Scouts Main Directory
 Links to all relevant resources are available here.
 
 #### This Directory is located at https://www.mattwyz.xyz/02
