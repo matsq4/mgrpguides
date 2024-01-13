@@ -358,8 +358,7 @@ c. **Cooking**
 9.	Turn off the heat and remove the lid. Let stand until the cake pan is cool enough to handle.
 10.	Transfer pan out of pot onto wire rack/plate, then run a knife around the edge of the cake to loosen. Let cool completely.
 11.	Invert the cake directly onto your rack/plate, lift off the pan and remove the parchment.
-12.	Once solid, flip the crêpe, by gently picking it up by going around the circumference.
-13.	Top with toppings of choice and serve, sliced.
+12.	Top with toppings of choice and serve, sliced.
 
 
 ## Breakfast (Sweet)
