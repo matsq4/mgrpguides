@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Matt's Recipes"
+title: "Matt's Kitchen"
 permalink: /mkitchen
 ---
 
@@ -43,6 +43,7 @@ _Listed below are sections pertaining to different kinds of dishes, clicking sho
 ### _**Desserts**_
 **[All Desserts](#desserts)**
   - [Crêpes](#crêpes) <sub>[VEGETARIAN]</sub>
+  - [Stovetop Chocolate Cake](#stovetop-chocolate-cake) <sub>[VEGETARIAN]</sub>
 
 ### [**_Breakfast_**](#breakfast)
 #### [Sweet](#breakfast-sweet)
@@ -318,7 +319,48 @@ b. **Cooking**
 6.	Once done, pick up the crêpe and transfer onto a plate.
 7.	Plate the crêpes and fill/top with toppings of your choice.
 
-**NOTE: Subsequent crepes will require much less time to cook than the first crepe, as the pan heats up even more with each crepe.**
+### **_Stovetop Chocolate Cake_**
+> Fluffy and decadent, a quick and decent end to a meal.
+
+##### _Serves 8-10_
+
+| Ingredient            | Quantity        | Remarks                                              |
+|-----------------------|-----------------|------------------------------------------------------|
+| All-Purpose Flour     | 130g            |                                                      |
+| Cocoa Powder          | 29g             |                                                      |
+| Milk                  | 29g             |                                                      |
+| Eggs                  | 2-3             | depending on size                                    |
+| Butter                | 6 tbsp/ ¾ stick |                                                      |
+| Brown Sugar           | 198g            |                                                      |
+| Salt                  | ¼ tsp           |                                                      |
+| Baking Soda           | 1 tsp           |                                                      |
+| Instant Espresso Pwdr | 1 tsp           | optional                                             |
+| Vanilla Extract       | 1½ tsp          |                                                      |
+| Toppings              | -               | of choice, can be chocolate chips, <br> fruits, etc. |
+
+#### **Method and Instruction**
+a. **Setup**
+1.	Pot Setup: Cut foil and gently scrunch together to form a snake, shape into a circle, and set on the bottom of your pot. Add enough water for the steaming process.
+Alternatively, simply use anything that can support the weight of the pan and is reasonably tall.
+2.	Lightly coat bottom and sides 9” cake pan with cooking spray, then line the bottom with parchment and coat bottom.
+3.	Place the prepared pan in the pot on top of the steaming apparatus.
+
+b. **Preparation**
+
+4.	Sift the flour, cocoa powder, and baking soda into a medium bowl, then whisk in the salt.
+5.	In a large bowl, whisk the sugar and eggs until slightly lightened, ~30 secs. Whisk in ½ cup water, the espresso powder, butter, and vanilla.
+6.	Add the flour mixture and whisk gently till combined.
+
+c. **Cooking**
+
+7.	Pour the batter into the prepared pan.
+8.	Cover pot and heat on high until the water boils, reduce to low heat and steam, covered for about 23 minutes, until the centre of the cake is just firm to the touch.
+9.	Turn off the heat and remove the lid. Let stand until the cake pan is cool enough to handle.
+10.	Transfer pan out of pot onto wire rack/plate, then run a knife around the edge of the cake to loosen. Let cool completely.
+11.	Invert the cake directly onto your rack/plate, lift off the pan and remove the parchment.
+12.	Once solid, flip the crêpe, by gently picking it up by going around the circumference.
+13.	Top with toppings of choice and serve, sliced.
+
 
 ## Breakfast (Sweet)
 ### _**French Toast**_
