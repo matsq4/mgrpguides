@@ -44,6 +44,7 @@ _Listed below are sections pertaining to different kinds of dishes, clicking sho
 **[All Desserts](#desserts)**
   - [Crêpes](#crêpes) <sub>[VEGETARIAN]</sub>
   - [Stovetop Chocolate Cake](#stovetop-chocolate-cake) <sub>[VEGETARIAN]</sub>
+  - [Purin (Caramel Pudding)](#purin) <sub>[VEGETARIAN]</sub>
 
 ### [**_Breakfast_**](#breakfast)
 #### [Sweet](#breakfast-sweet)
@@ -54,6 +55,8 @@ _Listed below are sections pertaining to different kinds of dishes, clicking sho
 ### **_Backwoodsman_**
 **[All Backwoodsman](#backwoodsmanfire-top)**
   - [Foil Packet – Sausage & Potatoes](#potatoes-and-sausages-in-foil)
+  - [Grilled Corn on the Cob (w/ Miso Butter)](#grilled-corn-on-the-cob-w-miso-butter) <sub>[VEGETARIAN]</sub>
+  - [Toasted Marshmallow](#toasted-marshmallow) <sub>[VEGETARIAN]</sub>
 
 
 ## Entrées
@@ -322,7 +325,7 @@ b. **Cooking**
 ### **_Stovetop Chocolate Cake_**
 > Fluffy and decadent, a quick and decent end to a meal.
 
-##### _Serves 8-10_
+##### _Serves 8_
 
 | Ingredient            | Quantity        | Remarks                                              |
 |-----------------------|-----------------|------------------------------------------------------|
@@ -360,6 +363,57 @@ c. **Cooking**
 11.	Invert the cake directly onto your rack/plate, lift off the pan and remove the parchment.
 12.	Top with toppings of choice and serve, sliced.
 
+### **_Purin_**
+> Creamy soft and sticky sweet, a jiggly dessert. Also commonly known as flan.
+
+##### _Serves 8-10_
+
+| Ingredient            | Quantity        | Remarks                                              |
+|-----------------------|-----------------|------------------------------------------------------|
+| All-Purpose Flour     | 130g            |                                                      |
+| Cocoa Powder          | 29g             |                                                      |
+| Milk                  | 29g             |                                                      |
+| Eggs                  | 2-3             | depending on size                                    |
+| Butter                | 6 tbsp/ ¾ stick |                                                      |
+| Brown Sugar           | 198g            |                                                      |
+| Salt                  | ¼ tsp           |                                                      |
+| Baking Soda           | 1 tsp           |                                                      |
+| Instant Espresso Pwdr | 1 tsp           | optional                                             |
+| Vanilla Extract       | 1½ tsp          |                                                      |
+| Toppings              | -               | of choice, can be chocolate chips, <br> fruits, etc. |
+
+#### **Method and Instruction**
+a. **Preparation (Caramel)**
+1.	Lightly butter the inside of 4 purin moulds.
+2.	Place sugar and water in a saucepan. Bring to a simmer on medium heat until the sugar melts and is dissolved into the water. 
+3.	Continue heating until the sugar turns a deep amber colour, being careful not to burn the caramel.
+4.	Remove caramel from the heat and, using a long handled spoon or ladle, carefully add hot water to the caramel in 2 – 3 small portions. Swirl the contents of the pot together to incorporate the water into the caramel. 
+Be careful of hot caramel splashing up during this step, as it can cause burns.
+5.	Evenly distribute caramel among the 4 moulds. Set aside.
+
+b. **Preparation (Custard)**
+
+6.	To prepare the steaming environment for the purin: Fill a pot with a fitted lid with enough water so that the bottom half of the cups are covered when placed into the water. Place a small, clean dishcloth or towel at the bottom of the pot to help distribute the heat evenly. Bring to a low boil.
+7.	Place milk and sugar in a small pot set on medium heat. 
+8.	Stir occasionally until the sugar has completely dissolved and the milk is hot and steaming.
+9.	Whisk eggs in a bowl until the yolks are well incorporated into the whites. Try not to produce too many bubbles or mix a lot of air into the eggs. 
+10.	Slowly pour the hot milk into the eggs, whisking vigorously as you pour, being careful not to scramble the eggs. Ensure the eggs and milk are incorporated together completely.
+11.	Strain the egg mixture using a fine meshed strainer and remove any foam from its surface using a spoon. 
+12.	Gently pour egg mixture evenly into each mould with the caramel sauce at the bottom. Cover securely with foil.
+
+c. **Cooking**
+
+13.	Gently place the custard in the prepared steaming environment. Cover the pot with a lid and cook, making sure the water remains just below the boiling point. 
+14.	Steam for 15 – 20 minutes, or until the top of the custard has solidified and is shiny, and the purin wiggles slightly in its mould when gently shaken. 
+15.	Remove from hot water and let cool to room temperature, keeping the foil covering the moulds. 
+16.	Refrigerate until thoroughly chilled, about 2 hours.
+
+d. **To serve**
+
+17.	Run the tip of a thin knife along the top edge of the custard. Hold the mould at an angle and gently tap against a hard surface, turning it slowly to loosen the custard from the mould on all sides.
+18.	Turn the mould upside down on a serving plate. The purin should pop out of the mould, landing with the caramel facing up. Tap the bottom of the mould if it does not come out. 
+Be gentle with the purin as it is very soft and a bit fragile once removed from its mould.
+19.	Serve as a sweet snack or dessert.
 
 ## Breakfast (Sweet)
 ### _**French Toast**_
@@ -452,3 +506,46 @@ b. **Cooking**
 5.	Cook the packets over the fire for ~18-22 minutes, flipping after 10 minutes, till potatoes are tender.
 6.	Remove from fire and let cool slightly. BE CAREFUL WHEN OPENING they will be full of steam.
 7.	Top with fresh parsley and enjoy.
+
+### **_Grilled Corn on the Cob (w/ Miso Butter)_**
+> who said corn has to be boring
+
+##### _Serves 2_
+
+| Ingredient    	| Quantity 	| Remarks                  	|
+|---------------	|----------	|--------------------------	|
+| Corn          	| 2        	|                          	|
+| Unsalted Butter	| 1 tbsp   	| at room temp             	|
+| Miso          	| 1 tbsp   	|                          	|
+| Honey          	| 1 tsp    	|                          	|
+
+#### **Method and Instruction**
+a. **Preparation**
+1.	Preheat your grill pan on high. Lightly grease the grill using a small piece of paper towel folded several times and dipped in oil.
+
+b. **Cooking**
+
+2.	Place the corn on the grill and cook, turning occasionally, until the kernels become slightly translucent, the corn is fully cooked, and it is lightly charred all over. 
+3.	While the corn is cooking, mix butter, miso, and honey together in a bowl until smooth.
+4.	When the corn is cooked through, spread the miso butter evenly across the surface of the corn. 
+5.	Continue grilling until the miso butter has caramelized, rotating the corn so it cooks evenly.
+6.	Serve hot off the grill.
+
+### **Toasted Marshmallow**
+> I was told by Lucas to make a recipe for this, so here it is.
+
+##### _Serves 2_
+
+| Ingredient    	| Quantity 	| Remarks                  	|
+|---------------	|----------	|--------------------------	|
+| Marshmallow    	| 1        	|                         	|
+
+#### **Method and Instruction**
+a. **Preparation**
+1.	Take the marshmallow out of the bag.
+
+b. **Cooking**
+
+2.	Place the marshmallow on a stick and hold it over the heat, rotating often, 
+3.	Wait until the marshmallow is golden brown (or dark brown or burnt, if you prefer!) and the inside is gooey.
+4.	Allow it to cool for a few moments before serving.
