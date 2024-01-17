@@ -366,21 +366,21 @@ c. **Cooking**
 ### **_Purin_**
 > Creamy soft and sticky sweet, a jiggly dessert. Also commonly known as flan.
 
-##### _Serves 8-10_
+##### _Serves 4/makes 4 individual-sized purin_
 
-| Ingredient            | Quantity        | Remarks                                              |
-|-----------------------|-----------------|------------------------------------------------------|
-| All-Purpose Flour     | 130g            |                                                      |
-| Cocoa Powder          | 29g             |                                                      |
-| Milk                  | 29g             |                                                      |
-| Eggs                  | 2-3             | depending on size                                    |
-| Butter                | 6 tbsp/ ¾ stick |                                                      |
-| Brown Sugar           | 198g            |                                                      |
-| Salt                  | ¼ tsp           |                                                      |
-| Baking Soda           | 1 tsp           |                                                      |
-| Instant Espresso Pwdr | 1 tsp           | optional                                             |
-| Vanilla Extract       | 1½ tsp          |                                                      |
-| Toppings              | -               | of choice, can be chocolate chips, <br> fruits, etc. |
+| Ingredient      | Quantity | Remarks                |
+|-----------------|----------|------------------------|
+| **FOR CUSTARD** |          |                        |
+| Milk            | 250ml    |                        |
+| Sugar           | 5 tbsp   |                        |
+| Eggs            | 2-3      | depending on size      |
+| Vanilla Extract | ¼ tsp    | optional               |
+| **FOR CARAMEL** |          |                        |
+| Sugar           | 4 tbsp   |                        |
+| Water           | 1 tbsp   |                        |
+| Hot Water       | 1½ tbsp  |                        |
+| EXTRA           |          |                        |
+| Unsalted Butter | -        | for greasing moulds    |
 
 #### **Method and Instruction**
 a. **Preparation (Caramel)**
