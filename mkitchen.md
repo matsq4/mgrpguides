@@ -25,7 +25,6 @@ _Listed below are sections pertaining to different kinds of dishes, clicking sho
   - [Egg Scallion Pancake](#egg-scallion-pancakes) <sub>[VEGETARIAN]</sub>
 
 ### Mains
-#### Meat-Based
 **[Stir-Fry/Fried](#mains-stir-friedfried)**
   - [Egg Fried Rice](#egg-fried-rice) <sub>[VEGETARIAN]</sub>
   - [Soy-Glazed Chicken](#soy-glazed-chicken)
@@ -35,6 +34,7 @@ _Listed below are sections pertaining to different kinds of dishes, clicking sho
   - [Tantan Gyoza Hotpot](#坦々餃子鍋)
 
 **[Others/Uncategorised](#mains-others)**
+  - [Creamy Soup Style Pasta](#creamy-soup-style-pasta)
 
 #### Vegetarian
 **[All Vegetarian](#mains-vegetarian)**
@@ -254,7 +254,46 @@ b. **Cooking**
 12.	Serve in pot, hot with rice.
 
 ## Mains (Others)
--nothing here at the moment-
+
+### **_Creamy Soup Style Pasta_**
+> basically cream “carbonara”, tad bit soupier but good flavour and no Prego sauce jars. You don’t even need to boil the pasta separately!!
+> Sourced from Yuru Camp Episode 5
+
+#### _Serves 1-2_
+
+| Ingredient        | Quantity  | Remarks                             |
+|-------------------|-----------|-------------------------------------|
+| Pasta             | 100g      |                                     |
+| Shimeji Mushrooms | ¼ pack    |                                     |
+| Bacon             | 2-3 slice | for halal just use chicken/c. bacon |
+| Asparagus         | 2-5       | depending on size                   |
+| Onions            | ½ onion   | optional                            |
+| Sliced Cheese     | 2 slices  |                                     |
+| Milk              | 200ml     |                                     |
+| Garlic, minced    | 2 cloves  | or more if you like garlic          |
+| Consommé Cube     | ¼ cube    |                                     |
+| Black Pepper      | to taste  |                                     |
+| Olive Oil         | 1 tbsp    |                                     |
+| Water             | 250ml     |                                     |
+| Parsley           | -         |                                     |
+
+#### **Method and Instruction**
+a. **Preparation**
+1.	Wash all vegetables and mushrooms, make sure frozen ingredients (if any) are thawed out.
+2.	Chopping & Prep
+    - Chop the core off the Shimeji and then separate the mushroom.
+    - Cut bacon into bite-sized pieces.
+    - Trim your asparagus and cut into 1” pieces.
+
+b. **Cooking**
+
+1.	Heat olive oil in a medium pot on medium high heat until shimmering. Add garlic, onion, bacon, asparagus, and mushrooms. Stir fry until bacon is lightly browned and the vegetables are softened, about 8-10 minutes. Blot the bacon fat using a paper towel if you feel it is too greasy.
+2.	Add water and a quarter of a Consommé cube. Dissolve into the water and bring to a boil. Taste soup for seasoning, adding more if necessary.
+3.	Add spaghetti, breaking it in half to allow it to fit in the pot. 
+4.	Cook, stirring occasionally, for about half the recommended cooking time of the spaghetti you are using, or until the water is nearly soaked up.
+5.	Add milk and return to a boil. Stir occasionally and simmer until the pasta is cooked through. The liquid should be thickened and will easily coat the pasta. Add a dash of milk or water only if your pasta is not cooked through and the pasta is sticking to the bottom of the pot.
+6.	Remove from heat and add cheese in a single layer on top. Let rest for a moment to melt before stirring to incorporate. 
+7.	Top with ground black pepper and a sprinkling of parsley and serve hot.
 
 ## Mains (Vegetarian)
 ### **_Tofu Steak_**
