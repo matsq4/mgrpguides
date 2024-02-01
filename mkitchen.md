@@ -13,7 +13,7 @@ Campfire recipes are in a different section.
 
 **All recipes include name of dish, a short description of the dish, ingredients and instructions to prepare.**
 
-![copyright](https://github.com/matsq4/matt_wyz/assets/139704779/60446aba-e879-4a29-92cd-bf4f5fe6dc9b)
+![copyrightb24](https://github.com/matsq4/matt_wyz/assets/139704779/8287fd92-9b58-4d03-a93b-d03abaeaf059)
 
 ## SECTIONS
 
