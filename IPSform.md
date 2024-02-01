@@ -1,7 +1,6 @@
 ---
 layout: forward
-target: https://forms.gle/KxNrJ8MGvmxYQ4wJ9
-time: 3
+target: https://forms.gle/B5ELQzrKyNiswJ3M7
 message: Powered by GitHub
 ---
 
