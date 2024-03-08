@@ -13,15 +13,17 @@ This system was created for logging of IPS scores. Simply submit a new entry to 
 Scores can be reviewed at www.mattwyz.xyz/02/IPS
 
 #### Quick Links
+**[Documentation](https://www.mattwyz.xyz/docs/IPSSys)**
+
 **[Form](https://www.mattwyz.xyz/IPSform)**
 
-**[Score Page](https://www.mattwyz.xyz/02/IPS)**
+**[Score Page](https://host.02scouts.org/IPS)**
 
 **Support:** Matthew W. ([matt@matsq4group.com](mailto:matt@matsq4group.com))
 
 
 ### Usage Guide
-  1. Open the form at www.mattwyz.xyz/IPSform
+  1. Open the form at https://www.mattwyz.xyz/IPSform
   2. Once opened, tick the "Record Email" box, this is to track for misuse.
   3. Fill up all information.
   4. Ensure properly recorded.
@@ -36,4 +38,4 @@ process your requests.
 
 Data is not held on to for any period of time longer than needed.
 
-> ©️ matt_wyz/matthew w. 2023
+> ©️ matt_wyz/matthew w. 2023-2024
