@@ -45,6 +45,7 @@ o	Other Activities
 
 o	Overall Camp Quality
   > Out of 25 marks
+
 ### •	Mini-Challenges:
   
 o Participation in Mini Challenges by Patrol
