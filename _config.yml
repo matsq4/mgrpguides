@@ -16,6 +16,7 @@ logo: /favicon.png
 header_pages:
   - index.md
   - about.md
+  - projects.md
 
 minima:
   skin: auto
