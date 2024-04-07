@@ -21,7 +21,9 @@ by Honobu Yonezawa
 The Kudryavka Sequence (クドリャフカの順番) is a Japanese mystery novel written by Honobu Yonezawa. Originally published in 2005, The Kudryavka Sequence is the 3rd volume of the Classic Literature Club (古典部, Koten-bu) series.
 
 > [Download .pdf](https://matsq4.github.io/filehost/The%20Kudryavka%20Sequence%20-%20Welcome%20to%20KANYA%20FESTA!.pdf)
+> 
 > [Read .pdf online](https://www.mattwyz.xyz/thekudryavkasequencepdf)
+> 
 > [Download .epub](https://matsq4.github.io/filehost/The%20Kudryavka%20Sequence%20-%20Welcome%20to%20KANYA%20FESTA!%20-%20Honobu%20Yonezawa%2C%20Matthew%20W.epub)
 
 
