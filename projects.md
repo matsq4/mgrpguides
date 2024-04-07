@@ -3,7 +3,7 @@ layout: page
 title: "Projects"
 permalink: /projects
 ---
-## Listed below are all of my ongoing/finished projects, and download links if available. 
+### Listed below are all of my ongoing/finished projects, and download links if available. 
 
 ## Koten-Bu (Classic Literature Club Series)
 Originally published in 2001, the Koten-Bu Series was written by Honobu Yonezawa, with Hyouka (氷菓) being the first volume of the series.
