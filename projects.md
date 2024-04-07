@@ -31,7 +31,7 @@ The Kudryavka Sequence (クドリャフカの順番) is a Japanese mystery novel
 ### The Doll that Took a Detour - Little birds can remember (Koten-Bu Series/Hyouka Volume 4)
 by Honobu Yonezawa
 
-![Classic_Literature_Club〈古典部〉シリーズ_-_Volume_04](https://static.wikia.nocookie.net/hyouka/images/5/5b/Classic_Literature_Club_%28%E3%80%88%E5%8F%A4%E5%85%B8%E9%83%A8%E3%80%89%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%29_-_Volume_04_%28PZG%29_compressed.png/revision/latest/scale-to-width-down/1000?cb=20221207034653)
+https://static.wikia.nocookie.net/hyouka/images/5/5b/Classic_Literature_Club_%28%E3%80%88%E5%8F%A4%E5%85%B8%E9%83%A8%E3%80%89%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%29_-_Volume_04_%28PZG%29_compressed.png)
 
 The Doll that Took a Detour (遠まわりする雛) is a Japanese mystery novel written by Honobu Yonezawa. Originally published in 2007, The Doll that Took a Detour is the 4th volume of the Classic Literature Club (古典部, Koten-bu) series. It features a collection of short stories featuring events in the life of the Classic Literature Club members.
 
