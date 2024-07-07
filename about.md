@@ -26,4 +26,4 @@ I am involved in. I enjoy taking intiative and helping others when within my abi
   - RI Dramafeste 2023
     - Multimedia Production, Operation and Coordination for Buckley House
 
-Feel free to contact me at matthew@mattwyz.com
+Feel free to contact me at matthew@mattwyz.xyz
