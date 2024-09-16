@@ -5,6 +5,19 @@ permalink: /projects
 ---
 ### Listed below are all of my ongoing/finished projects, and download links if available. 
 
+## Trapeze Intelligent Transport Systems
+![Screenshot 2024-09-14 231210](https://github.com/user-attachments/assets/484dfc59-8958-4ac5-89b1-90b93809911d)
+
+A virtual recreation of Trapeze Transport systems in Lua in Roblox.
+
+Fully customisable, relatively efficient, and very user-friendly too, integrates with a Stop Reporter System (and preferably also a ticketing system in the near future).
+Currently not a final product, as I am not content with the way some of the features are, and the Past/Upcoming stops on the Trapeze will also be updated to more accurately reflect that of the real life one.
+
+Based heavily off the Trapeze IP-Terminal IPT and the Common Fleet Management System for LTA.
+
+Demo: [https://www.youtube.com/watch?v=PgP6VLuqM-8](https://www.youtube.com/watch?v=PgP6VLuqM-8&t=32s)
+
+
 ## Koten-Bu (Classic Literature Club Series)
 Originally published in 2001, the Koten-Bu Series was written by Honobu Yonezawa, with Hyouka (氷菓) being the first volume of the series.
 
