@@ -6,7 +6,7 @@ permalink: /aboutme
 
 ### Hello!
 
-**I'm Matthew Wang!** I've been dabbling with digital and graphic design for the past 4 years and have produced various school-based works. I am a coordinated and creative
+**I'm Matthew!** I've been dabbling with digital and graphic design for the past 4 years and have produced various school-based works. I am a coordinated and creative
 and I put great focus on making my work engaging and human-oriented. I am someone who is motivated and passionate about what I do, so I put my all into any projects I am involved in. I enjoy taking intiative and helping others when within my ability.
 
 #### Experience:
