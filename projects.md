@@ -5,17 +5,36 @@ permalink: /projects
 ---
 ### Listed below are all of my ongoing/finished projects, and download links if available. 
 
-## Trapeze Intelligent Transport Systems
+## Trapeze Intelligent Transport Systems (ROBLOX .lua)
 ![Screenshot 2024-09-14 231210](https://github.com/user-attachments/assets/484dfc59-8958-4ac5-89b1-90b93809911d)
 
 A virtual recreation of Trapeze Transport systems in Lua in Roblox.
 
-Fully customisable, relatively efficient, and very user-friendly too, integrates with a Stop Reporter System (and preferably also a ticketing system in the near future).
-Currently not a final product, as I am not content with the way some of the features are, and the Past/Upcoming stops on the Trapeze will also be updated to more accurately reflect that of the real life one.
+**ℹ️ Info:**
+Fully customisable, relatively efficient, and very user-friendly too, integrates with a Stop Reporter System and Fare Collection system (and preferably also a ticketing system in the near future).
+Currently not a final product, as I am not content with the way some of the features are, and I believe there is much more room for optimisation.
 
-Based heavily off the Trapeze IP-Terminal IPT and the Common Fleet Management System for LTA.
+Mostly based off of Trapeze's Intelligent Transport Systems (ITS).
+Driver control module based off of Trapeze's Intelligent Touch Terminal (ITT).
+Passenger Display modules are based off of Bravo/Citybus, just without the Chinese.
 
-Demo: [https://www.youtube.com/watch?v=PgP6VLuqM-8](https://www.youtube.com/watch?v=PgP6VLuqM-8&t=32s)
+**📶 Stats:**
+about 3-4 days with 2 hours each day.
+Not very experienced with coding in .lua since I normally stick to building.
+Scripts are still in the process of being optimised.
+
+**📃Script:**
+Totals up to 6 unique scripts.
+- 1 main "handler" script that handles ALL modules within the system. (~35 lines)
+- 3 ITT driver control module scripts. (~190 lines total)
+  - 1 main "control" script that performs actions based on changes in a set of values.
+  - 2 scripts to update these values based on user input.
+- 1 passenger info display script (~20 lines)
+  - Passenger info displays are handled in their independent script since a lot of calculations are made based off of the part the display is on, such that it is       dynamically adjusted.
+  - 1 card reader script (~50 lines)
+    - Detects a tool and performs mathematical operations. 
+
+**Demo:** [https://www.youtube.com/watch?v=PgP6VLuqM-8](https://www.youtube.com/watch?v=fKheSWoRsao)
 
 
 ## Koten-Bu (Classic Literature Club Series)
@@ -23,8 +42,6 @@ Originally published in 2001, the Koten-Bu Series was written by Honobu Yonezawa
 
 A fan-translation was started of the series in its 6 volume entirety at Baka-Tsuki.
 The .pdf and .epub versions cut off at Volume 2, so I decided to create .pdf and .epub versions from Volume 3 onward.
-
-**I kindly request you to not re-distribute them from this site without prior expressed permission, to prevent loss of attribution.**
 
 All credits go to the original author, publisher and translators at Baka-Tsuki.
 You can find the original plain-text and pdfs/epubs [here](https://www.baka-tsuki.org/project/index.php?title=Hyouka).
