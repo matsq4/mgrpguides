@@ -13,16 +13,20 @@ plugins:
   
 logo: /favicon.png
 
-nav_page:
-  - index.md
-  - about.md
-  - projects.md
+
 
 minima:
   skin: auto
 
-  minima:
+  nav_page:
+  - index.md
+  - about.md
+  - projects.md
+  
   social_links:
-    - { platform: instagram, user_url: "https://instagram.com/matt_wyz" }
-    - { platform: twitter, user_url: "https://twitter.com/matt_wyz" }
-    - { platform: youtube, user_url: "https://youtube.com/@matt_wyz" }
+    - title: Instagram
+      icon: instagram
+      url: "https://instagram.com/matt_wyz"
+    - title: YouTube
+      icon: youtube
+      url: "https://youtube.com/@matt_wyz"
