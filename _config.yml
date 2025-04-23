@@ -31,8 +31,8 @@ minima:
   
   social_links:
     - title: Instagram
-       icon: instagram
-       url: "https://instagram.com/matt_wyz"
-     - title: YouTube
-       icon: youtube
-       url: "https://youtube.com/@matt_wyz"
+      icon: instagram
+      url: "https://instagram.com/matt_wyz"
+    - title: YouTube
+      icon: youtube
+      url: "https://youtube.com/@matt_wyz"
