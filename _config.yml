@@ -13,7 +13,7 @@ plugins:
   
 logo: /favicon.png
 
-header_pages:
+nav_page:
   - index.md
   - about.md
   - projects.md
