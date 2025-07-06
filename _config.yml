@@ -1,10 +1,10 @@
-title: matt_wyz
+title: mat's GUIDES
 author:
-  name: Matthew Wang
+  name: mat (@matsq4)
   email: matthew@mattwyz.xyz
 
 description: >
-  (c) Matthew Wang 2023-2025.
+  (c) matsq4 2024-2025, All rights reserved. Do not republish content 
   Powered by Github Pages
 
 remote_theme: jekyll/minima
@@ -24,15 +24,22 @@ minima:
   nav_pages:
     - index.md
     - about.md
-    - projects.md
 
   # Set to `true` to show excerpts on the homepage.
   show_excerpts: false
   
   social_links:
-    - title: Instagram
-      icon: instagram
-      url: "https://instagram.com/matt_wyz"
     - title: YouTube
       icon: youtube
       url: "https://youtube.com/@matt_wyz"
+    - title: Instagram
+      icon: instagram
+      url: "https://instagram.com/matt_wyz"
+    - title: X (Twitter)
+      icon: x-twitter
+      url: "https://twitter.com/matsq4_official"
+    - title: Ko-fi
+      icon: ko-fi
+      url: "https://ko-fi.com/matt_wyz"
+
+  hide_site_feed_link: true
