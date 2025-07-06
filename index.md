@@ -1,5 +1,7 @@
 ---
-layout: forward
-target: https://matthewwang.net
-message: Redirecting you to the refreshed site...
+title: "Home"
 ---
+
+## Welcome!
+
+This page contains files.
