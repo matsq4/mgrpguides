@@ -1,7 +1,7 @@
 ---
-layout: page
 title: "Cobalt+ Guides: Multibay"
 permalink: /c+guides/multibay
+parent: Cobalt+ Guides
 ---
 
 ### Welcome!
