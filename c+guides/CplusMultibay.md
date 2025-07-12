@@ -9,6 +9,7 @@ parent: Cobalt+ Guides
 **This guide will walk you through setting up a Multibay System (where 2 or more lifts are linked using the same call buttons) using Cobalt+.**<br>
 You require some proficiency in using Roblox Studio.
 
+## Table of Contents
 - TOC
 {:toc}
 
