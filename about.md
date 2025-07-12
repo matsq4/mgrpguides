@@ -2,6 +2,7 @@
 layout: page
 title: "About Me"
 permalink: /about
+nav_order: 2
 ---
 
 ### Hello!
