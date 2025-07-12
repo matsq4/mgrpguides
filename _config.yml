@@ -4,6 +4,9 @@ plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-include-cache
+  - jekyll-sitemap
 
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
@@ -171,13 +174,7 @@ callouts:
 # Supports a CSV of tracking ID strings (eg. "UA-1234567-89,G-1AB234CDE5")
 # Note: the main Just the Docs site does *not* use Google Analytics.
 # ga_tracking: UA-2709176-10,G-5FG1HLH3XQ
-# ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
-
-plugins:
-  - jekyll-seo-tag
-  - jekyll-github-metadata
-  - jekyll-include-cache
-  - jekyll-sitemap
+# ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default
 
 kramdown:
   syntax_highlighter_opts:
@@ -193,6 +190,3 @@ compress_html:
   profile: false
   # ignore:
   #   envs: all
-
-aux_links:
-  matsq4 Group: https://www.matsq4group.com
