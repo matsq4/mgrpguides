@@ -9,7 +9,7 @@ parent: Cobalt+ Guides
 **This guide will walk you through setting up a Multibay System (where 2 or more lifts are linked using the same call buttons) using Cobalt+.**<br>
 You require some proficiency in using Roblox Studio.
 
-## Table of Contents
+#### Table of Contents
 - TOC
 {:toc}
 
@@ -25,7 +25,7 @@ This video guide will walk you through all the steps below in a video format.
 ### Step 1: Setup
 To start, insert the Multibay setup from the toolbox into your game, this provides the foundation to setup the Multibay system.
 
-> You can do either Step 2a or 2b first, it doesn't matter.
+{: .highlight } You can do either Step 2a or 2b first, it doesn't matter.
 
 ### Step 2a (easier to do this first)
 Drag the call buttons out of your lift (UpCall, DownCall), these are located in every single floor within Shaft.
@@ -40,7 +40,7 @@ Make sure to rename your lifts to something like "A" and "B". Lift names **canno
 ### Step 3: Call Buttons
 Drag your **call buttons** (UpCall, DownCall) into their corresponding floor (e.g. Floor 1 Call buttons go into Floors>1) within the "Floors" section of the Multibay. Create more Floors as needed (1,2,3 etc.).
 
-> IMPORTANT!!! Rename the call buttons to **Up** and **Down**, they will **NOT** work without this renaming.
+{: .warning } Rename the call buttons to **Up** and **Down**, they will **NOT** work without this renaming.
 
 ### Step 4: Configuration
 At this point you can open your Multibay configuration file.<br>
