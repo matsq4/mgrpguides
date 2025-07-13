@@ -9,7 +9,7 @@ parent: Cobalt+ Guides
 **This guide will walk you how to setup the Luxiar Absolift *Lift Monitoring System***<br>
 You require some proficiency in using Roblox Studio.
 
-## Table of Contents
+#### Table of Contents
 - TOC
 {:toc}
 
