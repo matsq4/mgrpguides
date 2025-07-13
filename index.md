@@ -16,7 +16,7 @@ The full list is available on our [Discord Server](https://discord.gg/BKMzZZU4Vg
   - DD Multibay Setup (on YouTube)
   - Motor Swap guide (on YouTube)
   - Luxiar
-    - Luxiar Absolift Guide (coming soon)
+    - [Luxiar Absolift Guide](/c+guides/luxiar/absolift)
 
 #### Contact and Connect:
 Discord: @matt_wyz<br>
