@@ -1,9 +1,9 @@
 ---
-title: "Cobalt+ Guides: Luxiar Absolift"
+title: "LUXIAR Absolift"
 permalink: /c+guides/luxiar/absolift
 parent: Cobalt+ Guides
 ---
-
+# Luxiar Absolift Guide
 ### Welcome!
 
 **This guide will walk you how to setup the Luxiar Absolift *Lift Monitoring System***<br>
