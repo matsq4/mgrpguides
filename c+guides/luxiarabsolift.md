@@ -1,6 +1,6 @@
 ---
-title: "Cobalt+ Guides [LUXIAR]: Absolift"
-permalink: /c+guides/luxiar/Absolift
+title: "Cobalt+ Guides: Luxiar Absolift"
+permalink: /c+guides/luxiar/absolift
 parent: Cobalt+ Guides
 ---
 
