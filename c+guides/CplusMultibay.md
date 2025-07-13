@@ -1,9 +1,9 @@
 ---
-title: "Cobalt+ Guides: Multibay"
+title: "Multibay"
 permalink: /c+guides/multibay
 parent: Cobalt+ Guides
 ---
-
+# Multibay Setup
 ### Welcome!
 
 **This guide will walk you through setting up a Multibay System (where 2 or more lifts are linked using the same call buttons) using Cobalt+.**<br>
